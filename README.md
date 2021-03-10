@@ -18,7 +18,7 @@ Apply constraint for the classes of an IP Address.
 
 Sample Input:
 
-192.226.12.11
+210.226.12.11
 
 Sample Output:
 
