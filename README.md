@@ -22,11 +22,11 @@ Sample Input:
 
 Sample Output:
 
-Class E
+Class C
 
 Explanation:
 
-192.168.0.1 belongs to the Class C IP Address, so the output is Class E
+192.168.0.1 belongs to the Class C IP Address, so the output is Class C
 
 Testcase 1:
 
