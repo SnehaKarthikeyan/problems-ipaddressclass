@@ -26,7 +26,7 @@ Class C
 
 Explanation:
 
-192.168.0.1 belongs to the Class C IP Address, so the output is Class C
+210.226.12.11 belongs to the Class C IP Address, so the output is Class C
 
 Testcase 1:
 
